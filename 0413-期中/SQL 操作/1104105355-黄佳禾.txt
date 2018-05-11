@@ -1,0 +1,18 @@
+﻿https://github.com/ShengYaoo/XmlAnalysisTeamWork
+1104105314-徐笙耀(Master)
+1104105303-邱昱軒(YuSyuan1208)
+1104105307-施智皓(JustSoGreat)
+1104105348-謝政憲(husano896)
+
+
+
+
+1104105355-黄佳禾(kiyoshimo)
+#组长好像两星期前忘记把我的名字加进去这个txt,代码已经在期中考前上传了
+
+
+master 主支
+YuSyuan1208 JustSoGreat 分支後合併回master
+
+
+s
